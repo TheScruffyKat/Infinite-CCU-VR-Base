@@ -50,4 +50,4 @@ void sendBackToClients(string name) {
 }
 ```
 
-(Learn more about this topic here!)[https://mirror-networking.gitbook.io/docs/guides/communications/remote-actions]
+[Learn more about this topic here!([https://mirror-networking.gitbook.io/docs/guides/communications/remote-actions)

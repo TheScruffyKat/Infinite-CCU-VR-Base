@@ -26,7 +26,7 @@ void myTestFunction(string name) {
 }
 ```
 
-## Sending a function back to the clients
+**Sending a function back to the clients**
 
 ```
 [ClientRPC]

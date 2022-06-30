@@ -51,3 +51,10 @@ void sendBackToClients(string name) {
 ```
 
 [Learn more about this topic here!](https://mirror-networking.gitbook.io/docs/guides/communications/remote-actions)
+
+## Syncronising gameObjects
+
+To syncronise a game object, you can add a NetworkView component as well as one of these that you want to be synced (These are the mains):
+- Network Transform (Position, Rotation, Scale)
+- Network Animator (Animations)
+- Network Rigidbody (Physics based movements that need to remain smooth and interactible with no errors, such as a rolling ball)

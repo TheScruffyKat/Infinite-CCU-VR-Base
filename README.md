@@ -67,3 +67,8 @@ To syncronise a game object, you can add a NetworkView component as well as one 
 - Network Transform (Position, Rotation, Scale)
 - Network Animator (Animations)
 - Network Rigidbody (Physics based movements that need to remain smooth and interactible with no errors, such as a rolling ball)
+
+# CREDITS
+- FakeByte for the Epic Online Transport
+- Another-Axiom (Lemming) for the gorilla locomotion
+- My PC for existing

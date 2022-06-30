@@ -13,6 +13,7 @@ Make sure this option on the EOS Transport (NetworkManager GameObject) is set to
 Not importing mirror properly? Please do NOT use the latest version from the asset store as it wont work. Instead get it from here as a .unitypackage and import it into your project.
 
 > ⚠️ Just in case, I am not responsible for IP leaks, TOS breaking or other stuff similair, as you need to read the EOS TOS first!
+> 
 > [Epic Online Agreements](https://dev.epicgames.com/en-US/services/terms/agreements)
 
 # Things to know to create your game!

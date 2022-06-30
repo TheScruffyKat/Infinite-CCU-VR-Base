@@ -22,6 +22,32 @@ This can be used to do things such as award a point, change your colour, or anyt
 ```
 [command]
 void myTestFunction(string name) {
-  debug.log("I as the server recieved a call from " + name);
+  Debug.log("I as the server recieved a call from " + name);
 }
 ```
+
+## Sending a function back to the clients
+
+```
+[ClientRPC]
+void nameFromServer(string nameBack) {
+  Debug.log("Server sent me the name " + nameBack);
+ }
+```
+
+## Using both functions together
+This script sends a name to all clients and makes them log them in the console when sendName is called with a name (string) input.
+```
+[command]
+void sendName(string name) {
+  Debug.log("Sending name...")
+  sendBackToClients(name);
+}
+
+[ClientRPC]
+void sendBackToClients(string name) {
+  Debug.log("I recieved the name " + name);
+}
+```
+
+(Learn more about this topic here!)[https://mirror-networking.gitbook.io/docs/guides/communications/remote-actions]

@@ -18,6 +18,8 @@ Not importing mirror properly? Please do NOT use the latest version from the ass
 
 # Things to know to create your game! (QuickStart Guide)
 
+**Most of this requires a Network Identity on any object that will interect with ANY of the networking!**
+
 > When scripting, you will probably need to add ```using Mirror;``` to the top of your script
 
 ## Running functions over the network
@@ -59,6 +61,7 @@ void sendBackToClients(string name) {
 [Learn more about this topic here!](https://mirror-networking.gitbook.io/docs/guides/communications/remote-actions)
 
 ## Syncronising gameObjects
+
 
 To syncronise a game object, you can add a NetworkView component as well as one of these that you want to be synced (These are the mains):
 - Network Transform (Position, Rotation, Scale)

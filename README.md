@@ -18,6 +18,8 @@ Not importing mirror properly? Please do NOT use the latest version from the ass
 
 # Things to know to create your game! (QuickStart Guide)
 
+> When scripting, you will probably need to add ```using Mirror;``` to the top of your script
+
 ## Running functions over the network
 This can be used to do things such as award a point, change your colour, or anything that you can think of with functions but over the network!
 

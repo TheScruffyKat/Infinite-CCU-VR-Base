@@ -1,4 +1,4 @@
-# Infinite-CCU-VR-Base
+# Infinite-CCU-VR-Base (NOT READY YET, WIP!)
 **Comes with GorillaLocomotion bult in and setup for networking**
 
 Uses EOS and custom systems to achieve infinite CCU for free!

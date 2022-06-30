@@ -9,3 +9,19 @@ It is recommended not to change any EOS components as it may put you and others 
 Make sure this option on the EOS Transport (NetworkManager GameObject) is set to Force Relays else IP's may be leaked (including yours)
 
 Not importing mirror properly? Please do NOT use the latest version from the asset store as it wont work. Instead get it from here as a .unitypackage and import it into your project.
+
+> ⚠️ Just in case, I am not responsible for IP leaks, TOS breaking or other stuff similair, as you need to read the EOS TOS first!
+
+# Things to know to create your game!
+
+## Running functions over the network
+This can be used to do things such as award a point, change your colour, or anything that you can think of with functions but over the network!
+
+**Sending a function to the server**
+
+```
+[command]
+void myTestFunction(string name) {
+  debug.log("I as the server recieved a call from " + name);
+}
+```

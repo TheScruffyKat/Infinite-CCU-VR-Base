@@ -16,7 +16,7 @@ Not importing mirror properly? Please do NOT use the latest version from the ass
 > 
 > [Epic Online Agreements](https://dev.epicgames.com/en-US/services/terms/agreements)
 
-# Things to know to create your game!
+# Things to know to create your game! (QuickStart Guide)
 
 ## Running functions over the network
 This can be used to do things such as award a point, change your colour, or anything that you can think of with functions but over the network!

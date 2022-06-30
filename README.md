@@ -3,6 +3,8 @@
 
 Uses EOS and custom systems to achieve infinite CCU for free!
 
+> I Highly reccomend you to read through the quick start guide bellow before you jump in!
+
 ## Important Notices Before Usage!
 It is recommended not to change any EOS components as it may put you and others at risk of leaking IP's
 

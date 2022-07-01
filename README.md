@@ -16,7 +16,9 @@ Not importing mirror properly? Please do NOT use the latest version from the ass
 > 
 > [Epic Online Agreements](https://dev.epicgames.com/en-US/services/terms/agreements)
 
-# ⬜Things to know to create your game! (QuickStart Guide)⬜
+
+
+# Things to know to create your game! (QuickStart Guide)
 
 **Most of this requires a Network Identity on any object that will interect with ANY of the networking!**
 
@@ -67,6 +69,8 @@ To syncronise a game object, you can add a NetworkView component as well as one 
 - Network Transform (Position, Rotation, Scale)
 - Network Animator (Animations)
 - Network Rigidbody (Physics based movements that need to remain smooth and interactible with no errors, such as a rolling ball)
+
+
 
 # ⬜CREDITS⬜
 - FakeByte for the Epic Online Transport

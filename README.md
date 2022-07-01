@@ -18,4 +18,5 @@ Not importing mirror properly? Please do NOT use the latest version from the ass
 
 
 
-[Quick Start Guide](https://flashcatstudio.gitbook.io/eos-vr-with-infinite-ccu-online-guide/)
+## Reday to start?
+[📖 Setup And Usage guide!](https://flashcatstudio.gitbook.io/eos-vr-with-infinite-ccu-online-guide/)

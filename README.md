@@ -1,6 +1,8 @@
 # Infinite-CCU-VR-Base (NOT READY YET, WIP!)
 **Comes with GorillaLocomotion bult in and setup for networking**
 
+EpicOnlineTransport made by Fakebyte and makes up 90% of it lol
+
 Uses EOS and custom systems to achieve infinite CCU for free!
 
 > I Highly reccomend you to read through the quick start guide bellow before you jump in!
